@@ -5,5 +5,5 @@ Efficient Graph-Based Image Segmentation论文 python 实现
 
 结果：
   
-  ![result](https://github.com/zww520/segmentation0/blob/master/segmentation/result.png)
-  
+  ![result1](https://github.com/zww520/segmentation0/blob/master/segmentation/result.png)
+  ![result2](https://github.com/zww520/segmentation0/blob/master/segmentation/result1.png)
